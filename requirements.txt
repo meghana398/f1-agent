@@ -1,0 +1,6 @@
+langchain
+langchain-community
+mistralai
+python-dotenv
+matplotlib
+streamlit
