@@ -1,7 +1,7 @@
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from langchain.tools import StructuredTool
+from langchain_community.tools import StructuredTool
 from langchain_community.llms import MistralAI
 from langchain.agents import AgentExecutor, create_react_agent
 from langchain.prompts import PromptTemplate
